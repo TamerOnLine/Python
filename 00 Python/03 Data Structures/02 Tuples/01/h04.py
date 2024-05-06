@@ -1,0 +1,4 @@
+myTuples = ()
+
+print(myTuples)
+
